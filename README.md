@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SweedelRodrigues/DSA/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/SweedelRodrigues/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/SweedelRodrigues/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/SweedelRodrigues/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/SweedelRodrigues/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
