@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SweedelRodrigues/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SweedelRodrigues/DSA/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/SweedelRodrigues/DSA/tree/master/0141-linked-list-cycle) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SweedelRodrigues/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/SweedelRodrigues/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SweedelRodrigues/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/SweedelRodrigues/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SweedelRodrigues/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SweedelRodrigues/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
