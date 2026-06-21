@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SweedelRodrigues/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/SweedelRodrigues/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SweedelRodrigues/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SweedelRodrigues/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SweedelRodrigues/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/SweedelRodrigues/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0056-merge-intervals) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Math
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0039-combination-sum) |
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
