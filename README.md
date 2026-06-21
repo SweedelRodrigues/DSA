@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/SweedelRodrigues/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/SweedelRodrigues/DSA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/SweedelRodrigues/DSA/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SweedelRodrigues/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SweedelRodrigues/DSA/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/SweedelRodrigues/DSA/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
