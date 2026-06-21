@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SweedelRodrigues/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SweedelRodrigues/DSA/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/SweedelRodrigues/DSA/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/SweedelRodrigues/DSA/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Doubly-Linked List
 |  |
 | ------- |
