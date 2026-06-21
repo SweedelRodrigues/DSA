@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SweedelRodrigues/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0090-subsets-ii) |
+| [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SweedelRodrigues/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SweedelRodrigues/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SweedelRodrigues/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SweedelRodrigues/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SweedelRodrigues/DSA/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Doubly-Linked List
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
