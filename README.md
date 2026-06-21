@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SweedelRodrigues/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SweedelRodrigues/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SweedelRodrigues/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/SweedelRodrigues/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SweedelRodrigues/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/SweedelRodrigues/DSA/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
+| [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
