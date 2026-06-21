@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SweedelRodrigues/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SweedelRodrigues/DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/SweedelRodrigues/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/SweedelRodrigues/DSA/tree/master/0283-move-zeroes) |
@@ -147,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SweedelRodrigues/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SweedelRodrigues/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/SweedelRodrigues/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SweedelRodrigues/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
