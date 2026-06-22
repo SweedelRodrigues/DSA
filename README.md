@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SweedelRodrigues/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SweedelRodrigues/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/SweedelRodrigues/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SweedelRodrigues/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0056-merge-intervals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SweedelRodrigues/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/SweedelRodrigues/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SweedelRodrigues/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SweedelRodrigues/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SweedelRodrigues/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SweedelRodrigues/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
