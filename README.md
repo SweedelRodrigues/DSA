@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SweedelRodrigues/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SweedelRodrigues/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/SweedelRodrigues/DSA/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/SweedelRodrigues/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SweedelRodrigues/DSA/tree/master/0141-linked-list-cycle) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SweedelRodrigues/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SweedelRodrigues/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SweedelRodrigues/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/SweedelRodrigues/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SweedelRodrigues/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0039-combination-sum) |
