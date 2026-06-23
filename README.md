@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SweedelRodrigues/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SweedelRodrigues/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SweedelRodrigues/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SweedelRodrigues/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SweedelRodrigues/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SweedelRodrigues/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SweedelRodrigues/DSA/tree/master/0704-binary-search) |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
