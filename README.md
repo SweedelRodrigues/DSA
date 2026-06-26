@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SweedelRodrigues/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SweedelRodrigues/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SweedelRodrigues/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SweedelRodrigues/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/SweedelRodrigues/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0088-merge-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SweedelRodrigues/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SweedelRodrigues/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SweedelRodrigues/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/SweedelRodrigues/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SweedelRodrigues/DSA/tree/master/0234-palindrome-linked-list) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SweedelRodrigues/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/SweedelRodrigues/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SweedelRodrigues/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SweedelRodrigues/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SweedelRodrigues/DSA/tree/master/0053-maximum-subarray) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SweedelRodrigues/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SweedelRodrigues/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SweedelRodrigues/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SweedelRodrigues/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SweedelRodrigues/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SweedelRodrigues/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0503-next-greater-element-ii) |
