@@ -1,29 +1,29 @@
 class Solution {
-    public:
-        vector<int> sortedSquares(vector<int>& nums) {
+public:
+    vector<int> sortedSquares(vector<int>& nums) {
 
-                int n = nums.size();
+        int n = nums.size();
 
-                        vector<int> ans(n);
+        vector<int> ans(n);
 
-                                int left = 0;
-                                        int right = n - 1;
-                                                int idx = n - 1;
+        int left = 0;
+        int right = n - 1;
+        int idx = n - 1;
 
-                                                        while (left <= right) {
+        while (left <= right) {
 
-                                                                    if (nums[left] * nums[left] > nums[right] * nums[right]) {
-                                                                                    ans[idx] = nums[left] * nums[left];
-                                                                                                    left++;
-                                                                                                                }
-                                                                                                                            else {
-                                                                                                                                            ans[idx] = nums[right] * nums[right];
-                                                                                                                                                            right--;
-                                                                                                                                                                        }
+            if (nums[left] * nums[left] > nums[right] * nums[right]) {
+                ans[idx] = nums[left] * nums[left];
+                left++;
+            }
+            else {
+                ans[idx] = nums[right] * nums[right];
+                right--;
+            }
 
-                                                                                                                                                                                    idx--;
-                                                                                                                                                                                            }
+            idx--;
+        }
 
-                                                                                                                                                                                                    return ans;
-                                                                                                                                                                                                        }
-                                                                                                                                                                                                        };
+        return ans;
+    }
+};
