@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SweedelRodrigues/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/SweedelRodrigues/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SweedelRodrigues/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/SweedelRodrigues/DSA/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SweedelRodrigues/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SweedelRodrigues/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/SweedelRodrigues/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SweedelRodrigues/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/SweedelRodrigues/DSA/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/2390-removing-stars-from-a-string) |
