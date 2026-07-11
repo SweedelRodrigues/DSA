@@ -1,25 +1,25 @@
 class Solution {
-    public:
-        string longestCommonPrefix(vector<string>& strs) {
+public:
+    string longestCommonPrefix(vector<string>& strs) {
 
-                string prefix = strs[0];
+        string prefix = strs[0];
 
-                        for (int i = 1; i < strs.size(); i++) {
+        for (int i = 1; i < strs.size(); i++) {
 
-                                    int j = 0;
+            int j = 0;
 
-                                                while (j < prefix.size() &&
-                                                                   j < strs[i].size() &&
-                                                                                      prefix[j] == strs[i][j]) {
-                                                                                                      j++;
-                                                                                                                  }
+            while (j < prefix.size() &&
+                   j < strs[i].size() &&
+                   prefix[j] == strs[i][j]) {
+                j++;
+            }
 
-                                                                                                                              prefix = prefix.substr(0, j);
+            prefix = prefix.substr(0, j);
 
-                                                                                                                                          if (prefix.empty())
-                                                                                                                                                          return "";
-                                                                                                                                                                  }
+            if (prefix.empty())
+                return "";
+        }
 
-                                                                                                                                                                          return prefix;
-                                                                                                                                                                              }
-                                                                                                                                                                              };
+        return prefix;
+    }
+};
