@@ -1,37 +1,37 @@
 class Solution {
-    public:
+public:
 
-        string buildString(string str) {
+    string buildString(string str) {
 
-                stack<char> st;
+        stack<char> st;
 
-                        for (char ch : str) {
+        for (char ch : str) {
 
-                                    if (ch == '#') {
+            if (ch == '#') {
 
-                                                    if (!st.empty()) {
-                                                                        st.pop();
-                                                                                        }
-                                                                                                    }
-                                                                                                                else {
-                                                                                                                                st.push(ch);
-                                                                                                                                            }
-                                                                                                                                                    }
+                if (!st.empty()) {
+                    st.pop();
+                }
+            }
+            else {
+                st.push(ch);
+            }
+        }
 
-                                                                                                                                                            string ans = "";
+        string ans = "";
 
-                                                                                                                                                                    while (!st.empty()) {
-                                                                                                                                                                                ans += st.top();
-                                                                                                                                                                                            st.pop();
-                                                                                                                                                                                                    }
+        while (!st.empty()) {
+            ans += st.top();
+            st.pop();
+        }
 
-                                                                                                                                                                                                            reverse(ans.begin(), ans.end());
+        reverse(ans.begin(), ans.end());
 
-                                                                                                                                                                                                                    return ans;
-                                                                                                                                                                                                                        }
+        return ans;
+    }
 
-                                                                                                                                                                                                                            bool backspaceCompare(string s, string t) {
+    bool backspaceCompare(string s, string t) {
 
-                                                                                                                                                                                                                                    return buildString(s) == buildString(t);
-                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                        };
+        return buildString(s) == buildString(t);
+    }
+};
