@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SweedelRodrigues/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SweedelRodrigues/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/SweedelRodrigues/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SweedelRodrigues/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/SweedelRodrigues/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SweedelRodrigues/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/SweedelRodrigues/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
