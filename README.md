@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SweedelRodrigues/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SweedelRodrigues/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/SweedelRodrigues/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SweedelRodrigues/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SweedelRodrigues/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/SweedelRodrigues/DSA/tree/master/1929-concatenation-of-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SweedelRodrigues/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/SweedelRodrigues/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
 | ------- |
