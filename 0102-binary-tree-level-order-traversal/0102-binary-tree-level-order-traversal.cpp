@@ -1,38 +1,25 @@
-class Solution {
-    public:
-        vector<vector<int>> levelOrder(TreeNode* root) {
+queue<TreeNode*> q;
+q.push(root);
 
-                vector<vector<int>> ans;
+while(!q.empty())
+{
+    int n = q.size();      // Number of nodes in current level
 
-                        if(root == NULL)
-                                    return ans;
+    vector<int> level;
 
-                                            queue<TreeNode*> q;
-                                                    q.push(root);
+    while(n--)
+    {
+        TreeNode* curr = q.front();
+        q.pop();
 
-                                                            while(!q.empty())
-                                                                    {
-                                                                                int n = q.size();
+        // Process current node
 
-                                                                                            vector<int> level;
+        if(curr->left)
+            q.push(curr->left);
 
-                                                                                                        while(n--)
-                                                                                                                    {
-                                                                                                                                    TreeNode* curr = q.front();
-                                                                                                                                                    q.pop();
+        if(curr->right)
+            q.push(curr->right);
+    }
 
-                                                                                                                                                                    level.push_back(curr->val);
-
-                                                                                                                                                                                    if(curr->left)
-                                                                                                                                                                                                        q.push(curr->left);
-
-                                                                                                                                                                                                                        if(curr->right)
-                                                                                                                                                                                                                                            q.push(curr->right);
-                                                                                                                                                                                                                                                        }
-
-                                                                                                                                                                                                                                                                    ans.push_back(level);
-                                                                                                                                                                                                                                                                            }
-
-                                                                                                                                                                                                                                                                                    return ans;
-                                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                                                                        };
+    // Store current level
+}
