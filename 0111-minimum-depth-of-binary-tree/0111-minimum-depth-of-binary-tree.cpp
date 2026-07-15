@@ -10,25 +10,25 @@
  * };
  */
 class Solution {
-    public:
-        int minDepth(TreeNode* root)
-            {
-                    if(root == NULL)
-                                return 0;
+public:
+    int minDepth(TreeNode* root)
+    {
+        if(root == NULL)
+            return 0;
 
-                                        int leftHeight = minDepth(root->left);
+        int leftHeight = minDepth(root->left);
 
-                                                int rightHeight = minDepth(root->right);
+        int rightHeight = minDepth(root->right);
 
-                                                        // If left subtree doesn't exist
-                                                                if(root->left == NULL)
-                                                                            return 1 + rightHeight;
+        // If left subtree doesn't exist
+        if(root->left == NULL)
+            return 1 + rightHeight;
 
-                                                                                    // If right subtree doesn't exist
-                                                                                            if(root->right == NULL)
-                                                                                                        return 1 + leftHeight;
+        // If right subtree doesn't exist
+        if(root->right == NULL)
+            return 1 + leftHeight;
 
-                                                                                                                // If both subtrees exist
-                                                                                                                        return 1 + min(leftHeight, rightHeight);
-                                                                                                                            }
-                                                                                                                            };
+        // If both subtrees exist
+        return 1 + min(leftHeight, rightHeight);
+    }
+};
