@@ -1,27 +1,25 @@
 class Solution {
-    public:
-        bool isAnagram(string s, string t) {
+public:
+    bool isAnagram(string s, string t) {
 
-                if (s.size() != t.size()) {
-                            return false;
-                                    }
+        if (s.size() != t.size()) {
+            return false;
+        }
 
-                                            unordered_map<char, int> m;
+        int freq[26] = {0};
 
-                                                    // Count frequency of characters in s
-                                                            for (int i = 0; i < s.size(); i++) {
-                                                                        m[s[i]]++;
-                                                                                }
+        for (char c : s) {
+            freq[c - 'a']++;
+        }
 
-                                                                                        // Decrease frequency using t
-                                                                                                for (int i = 0; i < t.size(); i++) {
-                                                                                                            m[t[i]]--;
+        for (char c : t) {
+            freq[c - 'a']--;
 
-                                                                                                                        if (m[t[i]] < 0) {
-                                                                                                                                        return false;
-                                                                                                                                                    }
-                                                                                                                                                            }
+            if (freq[c - 'a'] < 0) {
+                return false;
+            }
+        }
 
-                                                                                                                                                                    return true;
-                                                                                                                                                                        }
-                                                                                                                                                                        };
+        return true;
+    }
+};
