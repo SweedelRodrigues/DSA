@@ -1,24 +1,28 @@
 class Solution {
 public:
-    bool isAlphaNum(char ch){
-        return isalnum(ch);
+    bool alphanumeric(char c)
+    {
+        return isalnum(c);
     }
     bool isPalindrome(string s) {
-        int st=0,end=s.length()-1;
-        while(st<end)
+        int left=0,right=s.size()-1;
+        while(left<right)
         {
-            if(!isAlphaNum(s[st])){
-                st++;continue;
+            if(!alphanumeric(s[left]))
+            {
+                left++;continue;
             }
-            if(!isAlphaNum(s[end])){
-                end--;continue;
+            if(!alphanumeric(s[right]))
+            {
+                right--;continue;
             }
-            if(tolower(s[st])!=tolower(s[end])){
+            if(!(tolower(s[left])==tolower(s[right])))
+            {
                 return false;
             }
-            st++;end--;
+            left++;
+            right--;
         }
         return true;
-
     }
 };
