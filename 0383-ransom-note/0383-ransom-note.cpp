@@ -1,22 +1,21 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-
-        vector<int> freq(26, 0);
-
-        // Count characters in magazine
-        for (char ch : magazine) {
-            freq[ch - 'a']++;
+        int freq[26]={0};
+        for(char c:magazine)
+        {
+            freq[c-'a']++;
         }
-
-        // Use characters for ransom note
-        for (char ch : ransomNote) {
-            freq[ch - 'a']--;
-
-            if (freq[ch - 'a'] < 0)
-                return false;
+        for(char c:ransomNote)
+        {
+            freq[c-'a']--;
+       
+            if(freq[c-'a']<0)
+            {
+                 return false;
+            }
         }
-
         return true;
+
     }
 };
