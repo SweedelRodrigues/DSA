@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/SweedelRodrigues/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SweedelRodrigues/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/SweedelRodrigues/DSA/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
