@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SweedelRodrigues/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SweedelRodrigues/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SweedelRodrigues/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SweedelRodrigues/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SweedelRodrigues/DSA/tree/master/0238-product-of-array-except-self) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SweedelRodrigues/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SweedelRodrigues/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SweedelRodrigues/DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/SweedelRodrigues/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SweedelRodrigues/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SweedelRodrigues/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -470,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
