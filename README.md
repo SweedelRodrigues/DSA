@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/SweedelRodrigues/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SweedelRodrigues/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/SweedelRodrigues/DSA/tree/master/0463-island-perimeter) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SweedelRodrigues/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SweedelRodrigues/DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/SweedelRodrigues/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -500,4 +503,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SweedelRodrigues/DSA/tree/master/0695-max-area-of-island) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
