@@ -1,30 +1,39 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        int n=chars.size();
-        int idx=0;
-        for(int i=0;i<n;i++)
+        
+        int read = 0;
+        int write = 0;
+
+        while(read < chars.size())
         {
-            char ch=chars[i];
-            int count=0;
-            while(i<n && chars[i]==ch)
+            char current = chars[read];
+            int count = 0;
+
+            // Count consecutive characters
+            while(read < chars.size() && chars[read] == current)
             {
-                count++;i++;
+                count++;
+                read++;
             }
-            if(count==1)
+
+            // Write the character
+            chars[write] = current;
+            write++;
+
+            // Write the count if greater than 1
+            if(count > 1)
             {
-                chars[idx++]=ch;
-            }else
-            {
-                chars[idx++]=ch;
-                string str=to_string(count);
-                for(char dig:str){
-                    chars[idx++]=dig;
+                string countstr = to_string(count);
+
+                for(char c : countstr)
+                {
+                    chars[write] = c;
+                    write++;
                 }
             }
-            i--;
         }
-        chars.resize(idx);
-        return idx;
+
+        return write;
     }
 };
