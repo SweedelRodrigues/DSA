@@ -9,10 +9,9 @@ public:
         for(char c:ransomNote)
         {
             freq[c-'a']--;
-       
             if(freq[c-'a']<0)
             {
-                 return false;
+                return false;
             }
         }
         return true;
