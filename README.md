@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SweedelRodrigues/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
+| [0697-degree-of-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0697-degree-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/SweedelRodrigues/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/SweedelRodrigues/DSA/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SweedelRodrigues/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SweedelRodrigues/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SweedelRodrigues/DSA/tree/master/0733-flood-fill) |
