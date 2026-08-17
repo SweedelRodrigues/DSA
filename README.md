@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/SweedelRodrigues/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SweedelRodrigues/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/SweedelRodrigues/DSA/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/SweedelRodrigues/DSA/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/SweedelRodrigues/DSA/tree/master/0695-max-area-of-island) |
