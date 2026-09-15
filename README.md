@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/SweedelRodrigues/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SweedelRodrigues/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/SweedelRodrigues/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SweedelRodrigues/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SweedelRodrigues/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SweedelRodrigues/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SweedelRodrigues/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SweedelRodrigues/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SweedelRodrigues/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SweedelRodrigues/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SweedelRodrigues/DSA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
