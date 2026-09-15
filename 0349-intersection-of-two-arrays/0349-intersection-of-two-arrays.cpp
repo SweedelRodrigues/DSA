@@ -14,12 +14,7 @@ public:
             }
         }
 
-        vector<int> ans;
-
-        for(int x : result) {
-            ans.push_back(x);
-        }
-
-        return ans;
+       vector<int> ans(result.begin(), result.end());
+       return ans;
     }
 };
