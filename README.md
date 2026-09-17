@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SweedelRodrigues/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SweedelRodrigues/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SweedelRodrigues/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SweedelRodrigues/DSA/tree/master/0239-sliding-window-maximum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SweedelRodrigues/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SweedelRodrigues/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SweedelRodrigues/DSA/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SweedelRodrigues/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SweedelRodrigues/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SweedelRodrigues/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SweedelRodrigues/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SweedelRodrigues/DSA/tree/master/0268-missing-number) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SweedelRodrigues/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SweedelRodrigues/DSA/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
