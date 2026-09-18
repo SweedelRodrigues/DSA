@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SweedelRodrigues/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/SweedelRodrigues/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/SweedelRodrigues/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/SweedelRodrigues/DSA/tree/master/0796-rotate-string) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/SweedelRodrigues/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/SweedelRodrigues/DSA/tree/master/0796-rotate-string) |
 ## Hash Function
@@ -605,4 +607,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SweedelRodrigues/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SweedelRodrigues/DSA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SweedelRodrigues/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
