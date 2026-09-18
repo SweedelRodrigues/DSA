@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/SweedelRodrigues/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SweedelRodrigues/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/SweedelRodrigues/DSA/tree/master/0665-non-decreasing-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/SweedelRodrigues/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SweedelRodrigues/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/SweedelRodrigues/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/SweedelRodrigues/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SweedelRodrigues/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SweedelRodrigues/DSA/tree/master/0994-rotting-oranges) |
