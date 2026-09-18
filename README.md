@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SweedelRodrigues/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/SweedelRodrigues/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SweedelRodrigues/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SweedelRodrigues/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/SweedelRodrigues/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/SweedelRodrigues/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SweedelRodrigues/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SweedelRodrigues/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SweedelRodrigues/DSA/tree/master/0134-gas-station) |
+| [0409-longest-palindrome](https://github.com/SweedelRodrigues/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/SweedelRodrigues/DSA/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SweedelRodrigues/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
