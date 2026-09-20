@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SweedelRodrigues/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SweedelRodrigues/DSA/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/SweedelRodrigues/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SweedelRodrigues/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/SweedelRodrigues/DSA/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/SweedelRodrigues/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/SweedelRodrigues/DSA/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0542-01-matrix) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SweedelRodrigues/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SweedelRodrigues/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/SweedelRodrigues/DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/SweedelRodrigues/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/SweedelRodrigues/DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SweedelRodrigues/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
@@ -597,10 +600,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/SweedelRodrigues/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/SweedelRodrigues/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 ## Randomized
 |  |
