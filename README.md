@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/SweedelRodrigues/DSA/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/SweedelRodrigues/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SweedelRodrigues/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SweedelRodrigues/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/SweedelRodrigues/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/SweedelRodrigues/DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/SweedelRodrigues/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/SweedelRodrigues/DSA/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/SweedelRodrigues/DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SweedelRodrigues/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0415-add-strings](https://github.com/SweedelRodrigues/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Doubly-Linked List
