@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/SweedelRodrigues/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/SweedelRodrigues/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/SweedelRodrigues/DSA/tree/master/0463-island-perimeter) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SweedelRodrigues/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0542-01-matrix) |
 ## Greedy
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SweedelRodrigues/DSA/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/SweedelRodrigues/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/SweedelRodrigues/DSA/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SweedelRodrigues/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
