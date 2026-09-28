@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SweedelRodrigues/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SweedelRodrigues/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SweedelRodrigues/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SweedelRodrigues/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0542-01-matrix) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/SweedelRodrigues/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/SweedelRodrigues/DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Doubly-Linked List
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SweedelRodrigues/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SweedelRodrigues/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SweedelRodrigues/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SweedelRodrigues/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SweedelRodrigues/DSA/tree/master/0724-find-pivot-index) |
@@ -654,4 +658,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/SweedelRodrigues/DSA/tree/master/0459-repeated-substring-pattern) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
