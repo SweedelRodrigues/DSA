@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SweedelRodrigues/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SweedelRodrigues/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SweedelRodrigues/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1732-find-the-highest-altitude](https://github.com/SweedelRodrigues/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/SweedelRodrigues/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SweedelRodrigues/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SweedelRodrigues/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SweedelRodrigues/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SweedelRodrigues/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/SweedelRodrigues/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/SweedelRodrigues/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Enumeration
 |  |
 | ------- |
