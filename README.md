@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SweedelRodrigues/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SweedelRodrigues/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SweedelRodrigues/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SweedelRodrigues/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/SweedelRodrigues/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/SweedelRodrigues/DSA/tree/master/1929-concatenation-of-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SweedelRodrigues/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SweedelRodrigues/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SweedelRodrigues/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SweedelRodrigues/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
 |  |
