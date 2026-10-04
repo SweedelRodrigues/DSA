@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/SweedelRodrigues/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SweedelRodrigues/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SweedelRodrigues/DSA/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/SweedelRodrigues/DSA/tree/master/0896-monotonic-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SweedelRodrigues/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0977-squares-of-a-sorted-array) |
