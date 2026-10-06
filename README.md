@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/SweedelRodrigues/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SweedelRodrigues/DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/SweedelRodrigues/DSA/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/SweedelRodrigues/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SweedelRodrigues/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SweedelRodrigues/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SweedelRodrigues/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SweedelRodrigues/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/SweedelRodrigues/DSA/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/SweedelRodrigues/DSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SweedelRodrigues/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SweedelRodrigues/DSA/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/SweedelRodrigues/DSA/tree/master/0896-monotonic-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SweedelRodrigues/DSA/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/SweedelRodrigues/DSA/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/SweedelRodrigues/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/SweedelRodrigues/DSA/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SweedelRodrigues/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/SweedelRodrigues/DSA/tree/master/1929-concatenation-of-array) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/SweedelRodrigues/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SweedelRodrigues/DSA/tree/master/0733-flood-fill) |
+| [0832-flipping-an-image](https://github.com/SweedelRodrigues/DSA/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/SweedelRodrigues/DSA/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/SweedelRodrigues/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SweedelRodrigues/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SweedelRodrigues/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SweedelRodrigues/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SweedelRodrigues/DSA/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/SweedelRodrigues/DSA/tree/master/0832-flipping-an-image) |
 ## Memoization
 |  |
 | ------- |
