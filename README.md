@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SweedelRodrigues/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/SweedelRodrigues/DSA/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SweedelRodrigues/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SweedelRodrigues/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SweedelRodrigues/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SweedelRodrigues/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/SweedelRodrigues/DSA/tree/master/0542-01-matrix) |
 ## Greedy
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SweedelRodrigues/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SweedelRodrigues/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/SweedelRodrigues/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/SweedelRodrigues/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/SweedelRodrigues/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -759,4 +763,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SweedelRodrigues/DSA/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/SweedelRodrigues/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
