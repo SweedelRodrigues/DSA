@@ -5,20 +5,21 @@ public:
         return isalnum(c);
     }
     bool isPalindrome(string s) {
-        int left=0,right=s.size()-1;
+        int left=0;
+        int right=s.size()-1;
         while(left<right)
         {
-            if(!alphanumeric(s[left]))
+            if(!(alphanumeric(s[left])))
             {
-                left++;continue;
+                left++; continue;
             }
-            if(!alphanumeric(s[right]))
+            if(!(alphanumeric(s[right])))
             {
                 right--;continue;
             }
-            if(!(tolower(s[left])==tolower(s[right])))
+            if(!(tolower(s[left]) == tolower(s[right])))
             {
-                return false;
+                return  false;
             }
             left++;
             right--;
