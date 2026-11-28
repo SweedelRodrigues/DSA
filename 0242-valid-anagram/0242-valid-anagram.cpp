@@ -13,7 +13,10 @@ public:
         for(char c:t)
         {
             freq[c-'a']--;
-            if(freq[c-'a']<0)
+        }
+        for(int i=0;i<26;i++)
+        {
+            if(freq[i]!=0)
             {
                 return false;
             }
